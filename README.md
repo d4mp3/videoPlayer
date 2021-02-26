@@ -18,9 +18,10 @@ Sample of VideoPlayer
 List of features ready and TODOs for future development
 * play video
 * change volume
+* change speed of video
 
 To-do list:
-* change speed of video
+* resize image
 
 ## Setup
 To open it just see its github pages.
